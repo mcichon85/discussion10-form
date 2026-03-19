@@ -34,3 +34,6 @@ input[type="submit"] {
   padding: 10px;
   width: 100%;
 }
+input:required {
+  border: 1px solid red;
+}
